@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - stealth
 directors_cut: https://ratogbm.github.io/Laserpointer/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
